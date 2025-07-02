@@ -10,7 +10,7 @@ Una API básica para gestionar usuarios
 - Dotenv
 - Nodemon (desarrollo)
 
-## 📦 Instalación
+## Instalación
 #En una consola bash
 
 - git clone https://github.com/DianaOvski/Users-Crud-Node.js.git
